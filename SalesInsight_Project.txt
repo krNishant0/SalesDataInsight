@@ -1,0 +1,28 @@
+I start with the problem statement where computer hardware manufacturer is facing issues in terms of their sales and then they hire a team of data analysts and 
+As a data analysts I first used the AIMS grid (Purpose,Stakeholders,Criteria, End Result) to define a problem and define strategy to tackle that problem and then 
+how the work on data discovery the next step was data cleaning and data merging and the next step generating those dashboards in in power bi.I have built this a 
+Power BI dashboard where you can track revenue numbers and sales quantity numbers year over year you can also track the revenue breakdown by regions by different 
+products and so on and you can also track the revenue trends and Performance Insights.
+
+Used Softwares: MySQL, PowerBI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By https://github.com/krNishant0
+
